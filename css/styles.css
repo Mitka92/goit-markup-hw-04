@@ -303,6 +303,7 @@ padding: 120px 0;
        background-color: var(--cloud);
        padding: 24px 0;
        margin-bottom: 8px;
+       border-radius: 4px;
 }
 /**
   |============================
