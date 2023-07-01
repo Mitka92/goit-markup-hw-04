@@ -442,8 +442,6 @@ height: 40px;
 }
 
 .footer-social {
-    width: 208px;
-    height: 80px;
     margin-left: 0;
 
 }
@@ -458,7 +456,7 @@ height: 40px;
 }
 
 .social-link-footer {
-    display:inline-flex;
+    display: flex;
     gap: 16px;
     
 }
