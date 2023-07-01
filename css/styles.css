@@ -458,7 +458,7 @@ height: 40px;
 }
 
 .social-link-footer {
-    display: flex;
+    display:inline-flex;
     gap: 16px;
     
 }
